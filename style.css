@@ -1,0 +1,21 @@
+* {
+  background-color: green;
+}
+
+p {
+  color: yellow;
+
+  text-align: center;
+}
+
+#para1 {
+  text-align: center;
+
+  color: blue;
+}
+
+div {
+  color: cyan;
+
+  text-align: center;
+}
